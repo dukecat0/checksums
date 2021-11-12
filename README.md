@@ -1,6 +1,6 @@
 # checksums
 
-A command line tool that show/verify checksums for a file. Works on Windows, macOS and Linux.
+A command line tool that shows/verifies checksums for a file. Works on Windows, macOS and Linux.
 
 ## Installation
 
